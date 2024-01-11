@@ -96,7 +96,7 @@
     "protocol-buffers-encodings": "1.1.1",
     "punycode": "^1.4.1",
     "querystring-es3": "^0.2.1",
-    "react": "16.9.0",
+    "react": "18.2.0",
     "react-native": "0.61.5",
     "react-native-appearance": "^0.3.4",
     "react-native-awesome-card-io": "^0.8.2",
