@@ -189,7 +189,7 @@
     "stream-browserify": "^1.0.0",
     "string_decoder": "^0.10.31",
     "text-encoding": "^0.7.0",
-    "thorify": "git+https://git@github.com/trustee-wallet/thorify#dist",
+    "thorify": "1.6.0",
     "timers-browserify": "^1.4.2",
     "tty-browserify": "0.0.0",
     "tweetnacl": "^1.0.3",
@@ -197,7 +197,7 @@
     "url-parse": "^1.4.7",
     "util": "^0.10.4",
     "vm-browserify": "0.0.4",
-    "web3": "1.2.7",
+    "web3": "4.0.1",
     "xmr-core": "git+https://git@github.com/trustee-wallet/xmr-core"
   },
   "devDependencies": {
