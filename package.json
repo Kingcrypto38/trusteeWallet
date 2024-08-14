@@ -45,7 +45,7 @@
     "@react-navigation/native": "5.9.4",
     "@react-navigation/routers": "5.7.2",
     "@react-navigation/stack": "5.14.4",
-    "@solana/web3.js": "git+https://git@github.com/trustee-wallet/solana-web3.js.git",
+    "@solana/web3.js": "0.0.1",
     "@tradle/react-native-http": "^2.0.1",
     "@unstoppabledomains/resolution": "^3.0.0",
     "@walletconnect/web3wallet": "^1.8.6",
@@ -180,7 +180,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "ripple-lib": "1.8.0",
+    "ripple-lib": "1.10.1",
     "rn-nodeify": "github:tradle/rn-nodeify",
     "rn-tooltip": "^2.0.0",
     "safe-event-emitter": "^1.0.1",
@@ -197,7 +197,7 @@
     "url-parse": "^1.4.7",
     "util": "^0.10.4",
     "vm-browserify": "0.0.4",
-    "web3": "1.2.7",
+    "web3": "4.0.1",
     "xmr-core": "git+https://git@github.com/trustee-wallet/xmr-core"
   },
   "devDependencies": {
