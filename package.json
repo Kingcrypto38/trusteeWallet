@@ -49,7 +49,7 @@
     "@tradle/react-native-http": "^2.0.1",
     "@unstoppabledomains/resolution": "^3.0.0",
     "@walletconnect/web3wallet": "^1.8.6",
-    "@waves/ts-lib-crypto": "1.4.4-beta.1",
+    "@waves/ts-lib-crypto": "1.4.4",
     "@waves/waves-transactions": "git+https://git@github.com/trustee-wallet/waves-transactions.git",
     "assert": "^1.5.0",
     "asyncstorage-down": "latest",
