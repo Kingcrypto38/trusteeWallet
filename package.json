@@ -197,7 +197,7 @@
     "url-parse": "^1.4.7",
     "util": "^0.10.4",
     "vm-browserify": "0.0.4",
-    "web3": "1.2.7",
+    "web3": "4.0.1",
     "xmr-core": "git+https://git@github.com/trustee-wallet/xmr-core"
   },
   "devDependencies": {
